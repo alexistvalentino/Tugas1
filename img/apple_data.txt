@@ -1,0 +1,64 @@
+1. Apple 12 Pro Max
+   160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in)
+   228 g (8.04 oz)
+   Glass front (Gorilla Glass), glass back (Gorilla Glass), stainless steel frame
+   Single SIM (Nano-SIM and/or eSIM) or Dual SIM (Nano-SIM, dual stand-by) - for China
+   IP68 dust/water resistant (up to 6m for 30 mins)
+   Apple Pay (Visa, MasterCard, AMEX certified)
+   Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (typ), 1200 nits (peak)
+   6.7 inches, 109.8 cm2 (~87.4% screen-to-body ratio)
+   1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density)
+   Scratch-resistant ceramic glass, oleophobic coating Wide color gamut True-tone
+   iOS 14.1, upgradable to iOS 14.6
+   Chipset Apple A14 Bionic (5 nm)
+   Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)
+   Apple GPU (4-core graphics)
+
+2. Apple 12 Pro
+   146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in)
+   189 g (6.67 oz)
+   Glass front (Gorilla Glass), glass back (Gorilla Glass), stainless steel frame
+   Single SIM (Nano-SIM and/or eSIM) or Dual SIM (Nano-SIM, dual stand-by) - for China
+   IP68 dust/water resistant (up to 6m for 30 mins)
+   Apple Pay (Visa, MasterCard, AMEX certified)
+   Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (typ), 1200 nits (peak)
+   6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio)
+   1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)
+   Scratch-resistant ceramic glass, oleophobic coating Wide color gamut True-tone
+   iOS 14.1, upgradable to iOS 14.6
+   Chipset Apple A14 Bionic (5 nm)
+   Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)
+   Apple GPU (4-core graphics)
+
+3. Apple 12
+   146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in)
+   164 g (5.78 oz)
+   Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame
+   Single SIM (Nano-SIM and/or eSIM) or Dual SIM (Nano-SIM, dual stand-by) - for China
+   IP68 dust/water resistant (up to 6m for 30 mins)
+   Apple Pay (Visa, MasterCard, AMEX certified)
+   Super Retina XDR OLED, HDR10, Dolby Vision, 625 nits (typ), 1200 nits (peak)
+   6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio)
+   1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)
+   Scratch-resistant ceramic glass, oleophobic coating Wide color gamut True-tone
+   iOS 14.1, upgradable to iOS 14.6
+   Chipset Apple A14 Bionic (5 nm)
+   CPU Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)
+   GPU	Apple GPU (4-core graphics)
+
+4. Watch series 6
+   44 x 38 x 10.4 mm (1.73 x 1.50 x 0.41 in)
+   36.5 g (1.31 oz)
+   Glass front, ceramic/sapphire crystal back, aluminum frame
+   eSIM
+   50m water resistant
+   ECG certified (region dependent SW application; HW available on all models)
+   Retina LTPO OLED, 1000 nits (peak)
+   1.78 inches, 10.0 cm2 (~60.0% screen-to-body ratio)
+   448 x 368 pixels (~326 ppi density)
+   Ion-X strengthened glass
+   Always-on display
+   watchOS 7.0, upgradable to 7.5
+   Chipset Apple S6
+   CPU Dual-core
+   GPU PowerVR

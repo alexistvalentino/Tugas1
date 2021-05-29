@@ -1,0 +1,75 @@
+1. Poco M3
+   161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in)
+   190 g (6.70 oz)
+   Dual SIM (Nano-SIM, dual stand-by)
+   IPS LCD, 90Hz, 400 nits (typ), 500 nits (HBM)
+   6.5 inches, 102.0 cm2 (~83.7% screen-to-body ratio)
+   1080 x 2400 pixels, 20:9 ratio (~405 ppi density)
+   Corning Gorilla Glass 3
+   Android 11, MIUI 12
+   Chipset MediaTek MT6833 Dimensity 700 5G (7 nm)
+   CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+   GPU Mali-G57 MC2
+   MEMORY Card slot microSDXC
+   Internal 64GB 4GB RAM, 128GB 6GB RAM 	UFS 2.2
+   MAIN CAMERA Triple 48 MP, f/1.8, 26mm (wide), 1/2.0", 0.8µm, PDAF
+   Features Dual-LED dual-tone flash, HDR, panorama
+   Video 1080p@30fps
+   SELFIE CAMERA Single	8 MP, f/2.0, (wide)
+
+2. M11 Ultra
+   164.3 x 74.6 x 8.4 mm (6.47 x 2.94 x 0.33 in)
+   234 g (8.25 oz)
+   Glass front (Gorilla Glass Victus), ceramic back, aluminum frame
+   Dual SIM (Nano-SIM, dual stand-by)
+   IP68 dust/water resistant (up to 1.5m for 30 mins)
+   AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 900 nits (HBM), 1700 nits (peak)
+   6.81 inches, 112.0 cm2 (~91.4% screen-to-body ratio)
+   1440 x 3200 pixels, 20:9 ratio (~515 ppi density)
+   Corning Gorilla Glass Victus
+   Android 11, MIUI 12.5
+   Chipset Qualcomm SM8350 Snapdragon 888 5G (5 nm)
+   CPU Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)
+   GPU Adreno 660
+   MEMORY Card slot Internal 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM UFS 3.1
+   MAIN CAMERA Triple 50 MP, f/2.0, 24mm (wide), 1/1.12", 1.4µm, Dual Pixel PDAF, Laser AF, OIS
+   Features Dual-LED flash, HDR, panorama, 1.1” AMOLED selfie display
+   Video 8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+ rec.
+
+3. M11 Mix Pro
+   163.7 x 76.4 x 7.8 mm (6.44 x 3.01 x 0.31 in)
+   196 g (6.91 oz)
+   Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5)
+   Dual SIM (Nano-SIM, dual stand-by)
+   Super AMOLED, 120Hz, HDR10+, 1300 nits (peak)
+   6.67 inches, 107.4 cm2 (~85.9% screen-to-body ratio)
+   1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+   Corning Gorilla Glass 5
+   Android 11, MIUI 12
+   Chipset Qualcomm SM8350 Snapdragon 888 5G (5 nm)
+   CPU Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)
+   GPU Adreno 660
+   MEMORY Card slot Internal 128GB 8GB RAM, 256GB 8GB RAM UFS 3.1
+   MAIN CAMERA Triple 108 MP, f/1.8, 26mm (wide), 1/1.52", 0.7µm, PDAF
+   Features LED flash, HDR, panorama
+   Video 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+
+
+4. K40 Gaming
+   161.9 x 76.9 x 8.3 mm (6.37 x 3.03 x 0.33 in)
+   205 g (7.23 oz)
+   Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5)
+   Dual SIM (Nano-SIM, dual stand-by) Physical pop-up gaming triggers
+   IP53, dust and splash protection
+   OLED, 1B colors, 120Hz, HDR10+, 500 nits (typ)
+   6.67 inches, 107.4 cm2 (~86.3% screen-to-body ratio)
+   1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+   Corning Gorilla Glass 5
+   Android 11, MIUI 12.5
+   Chipset MediaTek MT6893 Dimensity 1200 5G (6 nm)
+   CPU Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+   GPU Mali-G77 MC9
+   MEMORY Card slot Internal 128GB 6GB RAM, 128GB 8GB RAM, 128GB 12GB RAM, 256GB 8GB RAM, 
+   256GB 12GB RAM UFS 3.1
+   MAIN CAMERA Triple	64 MP, f/1.7, 26mm (wide), 1/2.0", 0.7µm, PDAF
+   Features Dual-LED flash, HDR, panorama
+   Video 4K@30fps, 1080p@30/60/120fps, 720p@960fps, HDR
